@@ -15,7 +15,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 // about data
 const about = {
   title: "About me",
-  description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+  description: "I’m a frontend developer focused on building responsive, fast, and user-friendly web interfaces. I specialize in JavaScript, React, and Next.js, and I enjoy combining design with clean, functional code. I also have experience using AI tools and Python for smart features in web apps. Whether it’s freelancing or job-based work, I’m always eager to learn, solve problems, and create something impactful.",
   info: [
     {
       fieldName: "Name",
@@ -56,37 +56,28 @@ const about = {
 const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
-  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  description: "I’ve worked on various real-world projects including e-commerce sites, portfolios, and custom web applications. My experience comes from both freelance and job-based roles, where I’ve built user interfaces using JavaScript, Next.js, and sometimes Python. I’m skilled in turning ideas into fully functional, responsive web apps that deliver a great user experience. I also use AI when needed to enhance interactivity.",
   items: [
     {
       company: "Tech Solution Inc.",
       position: "Full Stack Developer",
-      duration: "2022 - Present",
+      duration: "2024 - Present",
     },
     {
       company: "Web Design Studio",
       position: "Front-End Developer Intern",
-      duration: "Junuary 2021",
+      duration: "Junuary 2024",
     },
     {
       company: "H&D Clothing.",
       position: "Freelance Web Developer",
-      duration: "2020 - 2021",
+      duration: "2023 - 2024",
     },
-    {
-      company: "Tech Academy",
-      position: "Teaching Assistant",
-      duration: "2019 - 2020",
-    },
-    {
-      company: "Digital Agency",
-      position: "UI/UX Designer",
-      duration: "2018 - 2019",
-    },
+
     {
       company: "Software Developer Firm",
       position: "Junior Developer",
-      duration: "2021 - 2022",
+      duration: "2023 - 2023",
     },
   ],
 };
@@ -95,12 +86,17 @@ const experience = {
 const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
-  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  description: "I’ve learned web development through self-study, hands-on projects, and online courses. My focus has always been on applying practical knowledge — from mastering frontend frameworks like Next.js to learning how AI and Python can support modern websites. My portfolio reflects this continuous learning and application in real projects.",
   items: [
     {
       institution: "Governer Initiative",
       degree: "Certified Cloud & Applied Generative AI Engineer",
       duration: "2024 - Present",
+    },
+    {
+      institution: "PITP ( NEDUET )",
+      degree: "Certified Python Developer",
+      duration: "2025",
     },
     {
       institution: "Aptech Learning",
@@ -134,7 +130,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis at incidunt maiores",
+    "Skilled in modern frontend development, JavaScript, React, Next.js, API integration, responsive design, Python, and AI-powered features.",
   skillList: [
     {
       icon: <FaHtml5 />,

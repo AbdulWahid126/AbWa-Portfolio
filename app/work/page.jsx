@@ -25,11 +25,11 @@ const projects = [
     category: "frontend",
     title: "project 1",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe aut explicabo.",
+      "A fully responsive frontend clone built using Next.js, TypeScript, Tailwind CSS, and shadcn/ui. It replicates Nike's original design with precision, including navigation, product display, and mobile responsiveness. This project showcases my skills in modern frontend development, clean component architecture, and real-world UI implementation.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: "/assets/work/thumb1.png",
-    live: "",
-    github: "",
+    live: "https://nike-store-uiux-hackathon.vercel.app/",
+    github: "https://github.com/AbdulWahid126/Nike-Store-UIUX-Hackathon",
   },
   {
     num: "02",
